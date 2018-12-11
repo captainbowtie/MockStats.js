@@ -1,0 +1,22 @@
+{
+  "name": "mockstats",
+  "version": "1.0.0",
+  "description": "Mock trial ballot analysis program",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/captainbowtie/MockStats.js.git"
+  },
+  "author": "captainbowtie",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/captainbowtie/MockStats.js/issues"
+  },
+  "homepage": "https://github.com/captainbowtie/MockStats.js#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
